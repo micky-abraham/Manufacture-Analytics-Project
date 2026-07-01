@@ -40,8 +40,10 @@ Axon Manufacturing wants to create a report that focuses on daily production per
 - Combine multiple sheets into two dashboards and arrange visuals
 - Insert filters and actions for dashboard interactivity 
 
-## Dashboard
+## Dashboard - Production & Efficiency
 <img width="1296" height="796" alt="Screenshot 2026-06-30 152718" src="https://github.com/user-attachments/assets/36811eba-614f-42ef-926d-efb98e0f34f8" />
+
+## Dashboard - Quality & Delivery
 <img width="1300" height="802" alt="Screenshot 2026-06-30 152743" src="https://github.com/user-attachments/assets/2b072c21-d624-462f-952a-4360506386b9" />
 
 
