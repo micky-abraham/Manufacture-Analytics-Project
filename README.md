@@ -18,3 +18,6 @@ Axon Manufacturing wants to create a report that focuses on daily production per
 - Manufacture vs Rejected
 - Department wise Manufacture vs Rejected
 - Per-Day Production Efficiency
+
+## Excel Dashboard
+- <a href"
