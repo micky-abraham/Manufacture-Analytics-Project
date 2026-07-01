@@ -1,1 +1,2 @@
-# Manufacture-Analytics-Project
+# Manufacture-Analytics-Project (Excel, MySQL, Tableau, Power BI)
+
