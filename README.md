@@ -20,4 +20,14 @@ Axon Manufacturing wants to create a report that focuses on daily production per
 - Per-Day Production Efficiency
 
 ## Excel Dashboard
-- <a href"
+- <a href="https://github.com/micky-abraham/Manufacture-Analytics-Project/blob/main/Manufacturing%20-%20Excel.xlsx">View Dashboard</a>
+
+## Process
+- Loaded dataset into **power query** for cleaning and cleansing the data
+- Connected fact table to multiple dimension tables and established **star schema data modeling**
+- Created **pivot tables** for inserting various graphs and charts
+- Added necessary **slicers** for filtering out the data
+
+## Dashboard
+<img width="1656" height="782" alt="Screenshot 2026-06-30 152556" src="https://github.com/user-attachments/assets/1e86eb48-7642-442d-b733-df9fbbe53ba0" />
+
