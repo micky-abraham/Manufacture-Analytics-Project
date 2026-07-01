@@ -62,6 +62,18 @@ Axon Manufacturing wants to create a report that focuses on daily production per
 ## MySQL Queries
 - <a href="https://github.com/micky-abraham/Manufacture-Analytics-Project/blob/main/Manufacturing%20-%20SQL.sql">View Dashboard</a>
 
+## Process
+- Create database and activate it 
+- Use **load data infile statement** for loading big data files
+- Data validation done by extracting multiple fields from tables using joins
+- Retrieve information with SELECT statement and run queries for each KPIs  
+
+## Dashboard
+<img width="1235" height="718" alt="Screenshot 2026-07-01 125650" src="https://github.com/user-attachments/assets/6db800ce-0cb5-4535-89b4-9cc7e1573145" />
+<img width="1391" height="663" alt="Screenshot 2026-07-01 130016" src="https://github.com/user-attachments/assets/281995e8-c84d-4892-a6ed-2628f3a4f68e" />
+<img width="1410" height="667" alt="Screenshot 2026-07-01 130425" src="https://github.com/user-attachments/assets/6523e011-89c0-4080-aff1-4f95d6aa5dae" />
+<img width="962" height="647" alt="Screenshot 2026-07-01 130235" src="https://github.com/user-attachments/assets/be487cfd-fa13-455f-9d59-05c7e6249386" />
+
 
 
 
