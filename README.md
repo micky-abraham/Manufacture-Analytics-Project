@@ -73,6 +73,14 @@ Axon Manufacturing wants to create a report that focuses on daily production per
 <img width="1391" height="663" alt="Screenshot 2026-07-01 130016" src="https://github.com/user-attachments/assets/281995e8-c84d-4892-a6ed-2628f3a4f68e" />
 <img width="962" height="647" alt="Screenshot 2026-07-01 130235" src="https://github.com/user-attachments/assets/be487cfd-fa13-455f-9d59-05c7e6249386" />
 
+## Project Insights
+- Production peaked in March at 5.6M units, showing strong growth compared to January’s 4.0M
+- But rejection rates were highest in departments like Footwear and Knitwear, each with over 120K rejected units, which signals quality concerns
+- Machine analysis shows Textile machines account for 54% of rejections, so that’s a clear area to address
+- On‑time delivery is solid at 67%, but the 33% late orders highlight a gap in scheduling or logistics
+- Efficiency trends stayed between 78–88%, meaning we’re stable but have room to push higher by reducing waste and improving machine performance
 
+## Conclusion
+It shows clear trends in production output, but rejection rates are rising, which points to quality issues that need immediate attention. The efficiency patterns reveal opportunities to streamline processes and reduce waste. The delivery performance indicates strengths in on‑time orders but also areas where delays are impacting results. Overall, we should focus on sustaining growth, correcting declines, and driving continuous improvement in manufacturing performance
 
-
+  
